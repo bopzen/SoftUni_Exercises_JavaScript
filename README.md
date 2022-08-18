@@ -1,1 +1,1 @@
-# SoftUni_Exercises_With_JavaScript
+# SoftUni_Exercises_JavaScript
